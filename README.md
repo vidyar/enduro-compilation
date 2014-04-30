@@ -1,3 +1,5 @@
+[![Build Status](http://apibeta.shippable.com/projects/5360f64584691bdc07174932/badge)](http://beta.shippable.com/projects/5360f64584691bdc07174932/projects/5360f64584691bdc07174932)
+
 # Enduro [![Build Status](https://travis-ci.org/buren/enduro.png?branch=master)](https://travis-ci.org/buren/enduro)
 
 - [Getting started](#getting-started)
